@@ -1,3 +1,3 @@
-#*FriendsBook
+#FriendsBook
 
-##A social networking site
+A social networking site
