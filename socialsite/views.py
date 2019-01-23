@@ -27,3 +27,4 @@ def about(request):
 
 def profile(request):
 	return render(request, 'socialsite/profile.html',{'title': 'Profile'})
+
